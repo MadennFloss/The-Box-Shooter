@@ -1,0 +1,50 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 810M (ID=0xfee)
+    Vendor:   NVIDIA
+    VRAM:     986 MB
+    Driver:   24.21.13.9835
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.069 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Box Shooter\Builds\Windows\The Box Shooter_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.083600 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 32ac -> priority: 1 
+  Thread -> id: 448 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.556700 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 1.520500 ms (FindLiveObjects: 0.212200 ms CreateObjectMapping: 0.090600 ms MarkObjects: 1.179100 ms  DeleteObjects: 0.035500 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.184400 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 1.537400 ms (FindLiveObjects: 0.189200 ms CreateObjectMapping: 0.138300 ms MarkObjects: 1.175200 ms  DeleteObjects: 0.031300 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.614700 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 606.
+Total: 2.150900 ms (FindLiveObjects: 0.249800 ms CreateObjectMapping: 0.170700 ms MarkObjects: 1.686400 ms  DeleteObjects: 0.039900 ms)
+
